@@ -66,4 +66,4 @@ git clone url	# here url is origin
 # look up by : git remote -v
 
 
-
+Thank Ypu for the notes...
